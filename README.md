@@ -6,3 +6,6 @@ Created my github profile and just finished the second lesson in  FCC's Resposni
 
 ### Day2
 Started #100devs day 1 homework. currently working on a Coursera course. Nearly completed week 2. Started watching #100Devs ep. 2
+
+ ### Day3
+ Finished #100Devs ep2. we worked on how to use tags correctly and semanticly. wrote out first bit of code. pretty much just practiced placing tags. hw is to make a BBC website front page and continue corsera course on learning how to learn
