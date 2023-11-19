@@ -9,3 +9,7 @@ Started #100devs day 1 homework. currently working on a Coursera course. Nearly 
 
  ### Day3
  Finished #100Devs ep2. we worked on how to use tags correctly and semanticly. wrote out first bit of code. pretty much just practiced placing tags. hw is to read about html and css basics, make a BBC website front page, and continue corsera course on learning how to learn
+
+ ### Day4
+ reading and taking notes on shayhowe's html and css basics
+ https://learn.shayhowe.com/html-css/getting-to-know-css/
