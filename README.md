@@ -11,5 +11,5 @@ Started #100devs day 1 homework. currently working on a Coursera course. Nearly 
  Finished #100Devs ep2. we worked on how to use tags correctly and semanticly. wrote out first bit of code. pretty much just practiced placing tags. hw is to read about html and css basics, make a BBC website front page, and continue corsera course on learning how to learn
 
  ### Day4
- reading and taking notes on shayhowe's html and css basics
+ reading and taking notes on shayhowe's html and css basics. started building my first webpage mockup. really struggled with floats and how to position elements. will look to go over the box model, float theory, and positioning tomorrow. delving into this life path has completely taken over my attention. gaming has been put on the back burner. all i can think about is my future. heres to a hard work filled path to success.g
  https://learn.shayhowe.com/html-css/getting-to-know-css/
